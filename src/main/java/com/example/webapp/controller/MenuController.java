@@ -13,6 +13,7 @@ public class MenuController {
 	/**
 	 * メニュー画面を表示する
 	 */
+	//　新しいコメント
 	@GetMapping
 	public String showMenu() {
 		// templatesフォルダ配下のmenu.htmlに遷移
