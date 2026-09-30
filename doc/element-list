@@ -1,0 +1,11 @@
+com.example.demo
+com.example.webapp
+com.example.webapp.config
+com.example.webapp.controller
+com.example.webapp.entity
+com.example.webapp.form
+com.example.webapp.helper
+com.example.webapp.repository
+com.example.webapp.service
+com.example.webapp.service.impl
+com.example.webapp.utillity
