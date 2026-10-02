@@ -10,6 +10,7 @@ import com.example.webapp.form.LoginForm;
 @Controller
 @RequestMapping("/login")
 public class LoginController {
+	// yokogawaぶらんち
 	
 	@GetMapping
 	public String showLogin(@ModelAttribute LoginForm form) {
